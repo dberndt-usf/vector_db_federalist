@@ -1,6 +1,10 @@
 # Chroma database built by Lab 1 (each student builds their own)
 federalist_db/
 
+# SciFact data and Chroma database built by Lab 3
+scifact_data/
+scifact_db/
+
 # Python and Jupyter
 .venv/
 __pycache__/
